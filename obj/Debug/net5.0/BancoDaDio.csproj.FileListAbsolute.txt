@@ -1,0 +1,16 @@
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\bin\Debug\net5.0\BancoDaDio.exe
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\bin\Debug\net5.0\BancoDaDio.deps.json
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\bin\Debug\net5.0\BancoDaDio.runtimeconfig.json
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\bin\Debug\net5.0\BancoDaDio.runtimeconfig.dev.json
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\bin\Debug\net5.0\BancoDaDio.dll
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\bin\Debug\net5.0\ref\BancoDaDio.dll
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\bin\Debug\net5.0\BancoDaDio.pdb
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.csproj.AssemblyReference.cache
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.AssemblyInfoInputs.cache
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.AssemblyInfo.cs
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.csproj.CoreCompileInputs.cache
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.dll
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\ref\BancoDaDio.dll
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.pdb
+C:\Users\gndeo\OneDrive\Documentos\Pessoal\Programação\Digital Innovation One\Projetos\BancoDaDio\obj\Debug\net5.0\BancoDaDio.genruntimeconfig.cache
